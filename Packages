@@ -1,4 +1,4 @@
-Package: com.dlgamingvn.lqhack
+Package: com.dlgamingvn.lqhackdl
 Version: 1.44.1
 Section: Hack
 Maintainer: DLGamingVN
@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Name: Hack Lien Quan 1.44.1 By DL
 Author: DLGamingVN
 Filename: ./debs/Hack_Lien_Quan_1.44.1_By_DL.deb
-Size: 107.012
+Size: 110.592
 MD5sum: 12ca07f2bce6d0e7cd32adfec364d62471f65802
