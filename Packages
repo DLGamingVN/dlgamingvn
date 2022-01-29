@@ -1,0 +1,15 @@
+Package: com.dlgamingvn.lqhack
+Name: Hack Liên Quân Mobile 1.44.1 BY DLGamingVN
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Menu by DLGamingVN! Xem Thêm Các Mod Hack Miễn Phí Cho IOS Tại Website https://dlgamingvn.blogspot.com/ 
+Maintainer: DLGamingVN
+Author: DLGamingVN
+Section: Hack
+Version: 1.44.1
+Installed-Size: 528
+
+Filename: ./debs/Hack_Lien_Quan_1.44.1_By_DL.deb
+Size: 107
+MD5sum: 90ac1f9ebeb9ba38afe628769e7caa8a
+
