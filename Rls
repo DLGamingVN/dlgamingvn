@@ -6,6 +6,3 @@ Codename: ios
 Architecture: iphoneos-arm
 Components: main
 Description: Source Cydia Repo by GitPush <fahlnbg>
-MD5Sum:
- 0fab56016e857fcb46e3f5c0624c05f6 715 Packages
- 18c56a678a689325462ae8902761cb35 575 Packages.bz2
